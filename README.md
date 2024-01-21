@@ -1,3 +1,7 @@
+# frontend-socket
+Frontend of a web application where users can chat with each other, individually or in rooms using sockets.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
